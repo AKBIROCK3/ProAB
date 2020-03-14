@@ -171,7 +171,7 @@
 
         <pathelement location="${lib.dir}/appybuilder/fancydialog.aar" />
         <pathelement location="${lib.dir}/appybuilder/fancydialog.jar" />
-
+        <pathelement location="${lib.dir}/kangris/google-direction-library-1.2.0.jar" />
         <pathelement location="${lib.dir}/android_support/cardview-v7-21.0.0.jar" />
         <pathelement location="${lib.dir}/monetization/onesignal/onesignal.jar" />
         <pathelement location="${lib.dir}/commons-io/commons-io-2.0.1.jar" />
@@ -325,7 +325,7 @@
 
           <pathelement location="${lib.dir}/appybuilder/fancydialog.aar" />
           <pathelement location="${lib.dir}/appybuilder/fancydialog.jar" />
-
+          <pathelement location="${lib.dir}/kangris/google-direction-library-1.2.0.jar" />
           <pathelement location="${lib.dir}/android_support/cardview-v7-21.0.0.jar" />
           <pathelement location="${lib.dir}/monetization/onesignal/onesignal.jar" />
           <pathelement location="${lib.dir}/commons-io/commons-io-2.0.1.jar" />
