@@ -88,7 +88,7 @@
     <copy toFile="${classes.files.dir}/cloudinary-android-1.12.0.jar" file="${lib.dir}/cloudinary/cloudinary-android-1.12.0.jar" />
     <copy toFile="${classes.files.dir}/cloudinary-core-1.18.0.jar" file="${lib.dir}/cloudinary/cloudinary-core-1.18.0.jar" />
     <copy toFile="${classes.files.dir}/picasso-2.5.2.jar" file="${lib.dir}/appybuilder/picasso-2.5.2.jar" />
-
+       <copy toFile="${classes.files.dir}/google-direction.jar" file="${lib.dir}/kangris/google-direction-library-1.2.0.jar" />
     <copy toFile="${classes.files.dir}/styledtoast.aar" file="${lib.dir}/appybuilder/styledtoast.aar" />
     <copy toFile="${classes.files.dir}/fancydialog.aar" file="${lib.dir}/appybuilder/fancydialog.aar" />
     <copy toFile="${classes.files.dir}/onesignal.jar" file="${lib.dir}/monetization/onesignal/onesignal.jar" />
